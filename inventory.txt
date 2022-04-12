@@ -1,0 +1,15 @@
+TGT::Pepsi::2.39::14
+QVJ::Hershey's::2.5::5
+BLR::Fanta::2.5::10
+HY9::TestFanta::2.5::10
+N6S::Snickers::1.25::15
+SX0::TestOnlyTwo::9.99::9
+UKH::Oreo::3.7::18
+R15::M&Ms::1.75::13
+RQW::Juice::3.33::21
+5L1::Bounty::2.99::9
+Z00::KitKat::2.99::0
+SDK::Lays::1.3::9
+3L4::TestOnyThree::9.99::9
+I6L::TestOnlyFour::9.99::9
+J0E::TestItemOne::2.5::10
